@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home_pag():
-    return "deu certo"
+    return "deu certov"
 
 if __name__ == "__main__":
     app.run(port=8000,debug=True)
