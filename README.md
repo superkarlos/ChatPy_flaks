@@ -42,6 +42,7 @@ Para executar o projeto localmente, siga estas etapas:
    ```
 
 Acesse o chat no seu navegador em http://localhost:5000.
+Acesse o link https://apikarlos.jcarlosalegria2.repl.co , site hospedado no replit, pode ser que esteja  off
 
 ## Contribuições
  Contribuições são bem-vindas! Se você deseja melhorar ou expandir o ChatPy_flask, siga as diretrizes de contribuição no arquivo CONTRIBUTING.md.
